@@ -1,10 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2021-12-21'
+title: 'FreeLancer'
+company: 'UpWork'
+location: 'Remote'
+range: 'July - present'
+url: 'https://www.upwork.com'
 ---
 
 - Developed and styled interactive web applications for Apple Music using Ember and SCSS
