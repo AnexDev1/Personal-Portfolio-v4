@@ -16,8 +16,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url:
-        'https://www.linkedin.com/in/anwar-nasir-5a7b49258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+      url: 'https://www.linkedin.com/in/anwar-nasir-5a7b49258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
     },
     {
       name: 'Codepen',
@@ -30,10 +29,7 @@ module.exports = {
       name: 'About',
       url: '/#about',
     },
-    {
-      name: 'Experience',
-      url: '/#jobs',
-    },
+
     {
       name: 'Work',
       url: '/#projects',
